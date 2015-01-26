@@ -17,3 +17,4 @@ These are the best!
 - Panda
 - Koala
 - Sloth
+- Jackrabbit
